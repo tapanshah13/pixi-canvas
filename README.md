@@ -6,6 +6,6 @@ Welcome to Pixi Canvas, the ultimate pixel art platform that allows you to creat
 
 ## Description
 
-Pixi Canvas is not just a drawing tool; it's a gateway to the world of pixel art. Whether you're looking to create intricate animations or simply unwind with pixel sketching, our platform caters to beginners and seasoned artists. With a user-friendly interface and a vibrant array of tools, Pixi Canvas makes pixel art accessible and fun for everyone.
+Pixi Canvas is not just a drawing tool; it's a gateway to the world of pixel art. Whether you're looking to create intricate animations or unwind with pixel sketching, our platform caters to beginners and seasoned artists. With a user-friendly interface and a vibrant array of tools, Pixi Canvas makes pixel art accessible and fun for everyone.
 
 Explore your creativity with Pixi Canvas—where your pixel adventures begin!
